@@ -1,0 +1,14 @@
+:root {
+  /* 一般题颜色 */ 
+  --title-color: #0174e9;
+  /* menu */
+  --menu-bg-color: #fff;
+  /* logo背景色 */
+  --logo-bg-color: #fff;
+  /* 标题激活颜色 */
+  --title-active-color: #0174e9;
+  /* 文字颜色 */
+  --text-color: #333333;
+  --sc-border-color: #dcdfe6;
+  --container-bg-color:  #eff2f5;
+}
